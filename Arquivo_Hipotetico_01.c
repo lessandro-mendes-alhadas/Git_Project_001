@@ -1,0 +1,1 @@
+Arquivo C de exemplo para os estudo de Git
