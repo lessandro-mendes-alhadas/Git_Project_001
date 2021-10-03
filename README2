@@ -1,0 +1,4 @@
+Este é um arquivo utilizado nos estudos do Manual do Git
+Ele será adicionado ao repositório via comando "git commit --amend", à qual 'emenda' pequenas correções no último commit.
+
+Author: Lessandro Mendes Alhadas
